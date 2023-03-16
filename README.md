@@ -1,2 +1,2 @@
-# goit-markup-hw-05
-The fifth project-hw on the course FullStack from GoIT
+# goit-markup-hw-06
+The sixth project-hw on the course FullStack from GoIT
